@@ -23,22 +23,21 @@ This course will realize the following learning outcomes:
 
 ## Course Outline
 
-*Session 1: Introduction
+Session 1: Introduction
 Introduction to Jupyter Notebooks, class repositories; working through some programming fundamentals in Python.
 
-*Session 2: Pandas & NLTK
+Session 2: Pandas & NLTK
 Exploring basic operations on Pandas DataFrames when dealing with social data. Looking at NLTK’s Text class that allows for initial exploration of texts.
 
-*Session 3: Topic Modeling
+Session 3: Topic Modeling
 Exploring topic modeling as one way to move beyond the author and explore discursive patterns in our data. Using topic modeling findings to engage in a close reading.
 
-*Session 4: Word Embeddings
+Session 4: Word Embeddings
 Introducing Word Embeddings through Word2Vec in Python. Critical discussion about the concerns of bias implicit in Word Embeddings models.
 
-*Session 5: Regression Analysis
+Session 5: Regression Analysis
 Regression analysis in Python.
 
-*Session 6: Naïve Bayes & Sentiment Analysis
+Session 6: Naïve Bayes & Sentiment Analysis
 Naïve Bayes classification and sentiment analysis using NLTK in Python.
  
-
