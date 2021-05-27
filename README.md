@@ -26,8 +26,8 @@ This course will realize the following learning outcomes:
 Session 1: Introduction
 Introduction to Jupyter Notebooks, class repositories; working through some programming fundamentals in Python.
 
-Session 2: Pandas & NLTK
-Exploring basic operations on Pandas DataFrames when dealing with social data. Looking at NLTK’s Text class that allows for initial exploration of texts.
+Session 2: Preprocessing & tfidf
+Exploring basic operations on Pandas DataFrames when dealing with social data. Preprocessing data and comparing datasets using tfidf.
 
 Session 3: Topic Modeling
 Exploring topic modeling as one way to move beyond the author and explore discursive patterns in our data. Using topic modeling findings to engage in a close reading.
