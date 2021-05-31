@@ -29,14 +29,14 @@ Introduction to Jupyter Notebooks, class repositories; working through some prog
 ### Session 2: Preprocessing & tfidf
 Exploring basic operations on Pandas DataFrames when dealing with social data. Preprocessing data and comparing datasets using tfidf.
 
-### Session 3: Topic Modeling
+### Session 3: Distant Reading
+Introduction to distant reading using NLTK and Pandas.
+
+### Session 4: Topic Modeling
 Exploring topic modeling as one way to move beyond the author and explore discursive patterns in our data. Using topic modeling findings to engage in a close reading.
 
-### Session 4: Word Embeddings
+### Session 5: Word Embeddings
 Introducing Word Embeddings through Word2Vec in Python. Critical discussion about the concerns of bias implicit in Word Embeddings models.
-
-### Session 5: Regression Analysis
-Regression analysis in Python.
 
 ### Session 6: Naïve Bayes & Sentiment Analysis
 Naïve Bayes classification and sentiment analysis using NLTK in Python.
