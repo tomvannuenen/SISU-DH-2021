@@ -1,4 +1,4 @@
-# SISU Workshop
+# SISU Workshop 2021
 # Digital Humanities: Textual and Language Analysis on Social Media
 
  - Instructor: Tom van Nuenen
