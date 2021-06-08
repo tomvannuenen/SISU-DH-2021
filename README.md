@@ -41,4 +41,4 @@ Introducing Word Embeddings through Word2Vec in Python. Critical discussion abou
 ### Session 6: Language Biases
 Exploring how to analyze language biases using Word Embeddings methods.
 
-*Note that there are two optional notebooks for those who are interested: one on linear regression, and one on Naive Bayes classification and sentiment analysis.
+*Note that there are two optional notebooks for those who are interested: one on linear regression, and one on Naive Bayes classification and sentiment analysis.*
